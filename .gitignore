@@ -1,0 +1,44 @@
+# OS and editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build artifacts and caches
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+.build/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+.tmp/
+temp/
+
+# Dependency directories
+node_modules/
+venv/
+env/
+.env
+
+# IDE and tools
+.DS_Store
+Thumbs.db
+desktop.ini

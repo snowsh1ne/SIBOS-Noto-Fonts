@@ -5,22 +5,22 @@ This repository contains fonts used in SIBOS (Simple Image-based Operating Syste
 ## Noto Emoji (Monochrome)
 - **Purpose**: Emoji support for terminal emulators (xterm, st)
 - **Format**: Variable font with monochrome outlines
-- **File**: `Noto_Emoji/NotoEmoji-VariableFont_wght.ttf`
-- **Static weights**: Available in `Noto_Emoji/static/` directory
+- **File**: `noto-emoji/NotoEmoji-VariableFont_wght.ttf`
+- **Static weights**: Available in `noto-emoji/static/` directory
 - **Coverage**: All emoji characters as black/white outlines
 
 ## Google Sans Flex
 - **Purpose**: Modern variable sans-serif font
 - **Format**: Variable font with multiple axes (GRAD, ROND, opsz, slnt, wdth, wght)
-- **File**: `Google_Sans_Flex/GoogleSansFlex-VariableFont_GRAD,ROND,opsz,slnt,wdth,wght.ttf`
+- **File**: `google-sans-flex/GoogleSansFlex-VariableFont_GRAD,ROND,opsz,slnt,wdth,wght.ttf`
 
 ## License
 
 Both fonts are licensed under the **SIL Open Font License, Version 1.1**
 
 See individual LICENSE files in each font directory:
-- `Noto_Emoji/OFL.txt`
-- `Google_Sans_Flex/OFL.txt`
+- `noto-emoji/OFL.txt`
+- `google-sans-flex/OFL.txt`
 
 ## Source
 
